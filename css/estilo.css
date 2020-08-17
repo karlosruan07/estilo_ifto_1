@@ -1,0 +1,14 @@
+img{
+    margin: auto;
+    display: block;
+}
+
+div #titulo{
+    text-align: center;
+}
+
+div #texto_principal{
+    text-align: justify;
+    background-color: blueviolet;
+    color: white;
+}
